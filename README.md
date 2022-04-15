@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrián García</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **web3 and frontend development**
+- 🔭 I’m currently working on **front-end development**
 
-- 🌱 I’m currently learning **web3 and frontend development**
+- 🌱 I’m currently learning **web3**
 
-- 👨‍💻 All of my projects are available at [adriangarber.dev](adriangarber.dev)
+- 👨‍💻 All of my projects are available at [https://github.com/adriangarb](https://github.com/adriangarb)
 
 - 💬 Ask me about **react, javascript, sass**
 
