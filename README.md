@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adriangarb](https://github.com/adriangarb)
 
-- 💬 Ask me about **react, javascript, sass**
+- 💬 Ask me about **ReactJS, Javascript, Sass...**
 
 - 📫 How to reach me **adrian@adriangarber.dev**
 
