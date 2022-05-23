@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **web3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adriangarb](https://github.com/adriangarb)
+- 👨‍💻 All of my projects are available at [https://adriangarber.com/](https://adriangarber.com/)
 
 - 💬 Ask me about **ReactJS, Javascript, Sass, web3...**
 
-- 📫 How to reach me **adrian@adriangarber.dev**
+- 📫 How to reach me **adrian@adriangarber.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
