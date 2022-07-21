@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adriangarber.com/](https://adriangarber.com/)
 
-- 💬 Ask me about **ReactJS, Javascript, Sass, web3...**
+- 💬 Ask me about **ReactJS, TypeScript, web3...**
 
 - 📫 How to reach me **adrian@adriangarber.com**
 
